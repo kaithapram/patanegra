@@ -1,0 +1,38 @@
+title: >
+    Le Pata Negra un produit gastronomique exceptionnel
+email: >
+    your-email@domain.com
+description: >
+    Blog sur le jambon pata negra ou le jambon ibérique, l'un des produits les plus célèbres de la gastronomie mondiale. Avec ce blog, nous souhaitons présenter tout ce qui concerne ce produit espagnol. Nous allons passer en revue tous les restaurants à Paris où vous pouvez trouver ce produit exceptionnel. Recettes, types et qualités, astuces pour la consommation et la conservation du jambon pata negra
+
+baseurl: "/"
+url: http://keralahost.in/patanegra
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: >
+    Le Pata Negra un produit gastronomique exceptionnel
+
+date: 2019-03-15 11:18:32 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/patanegra/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: >
+    
+author_image: >
+    
+
+author: >
+    patanegra
