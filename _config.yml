@@ -1,6 +1,5 @@
 title: Le Pata Negra
-email: >
-    your-email@domain.com
+email: your-email@domain.com
 description: >
     Blog sur le jambon pata negra ou le jambon ibérique, l'un des produits les plus célèbres de la gastronomie mondiale.
  Avec ce blog, nous souhaitons présenter tout ce qui concerne ce produit espagnol.
@@ -10,8 +9,7 @@ google_adsense: Your-adsense-code
 
 markdown: kramdown
 
-name: >
-    Le Pata Negra
+name: Le Pata Negra
 date: 2019-03-15 11:18:32 +0000
 permalink: /:year/:month/:day/:title
 
@@ -27,10 +25,9 @@ google_analytics: UA-31XXXXXX-X
 gems:
   - jekyll-paginate
   - jekyll-sitemap
-cover: >
+cover: 
     
-author_image: >
+author_image: 
     
 
-author: >
-    patanegra
+author: patanegra
